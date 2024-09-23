@@ -1,6 +1,6 @@
 # CitiBike 2023 data analysis
 
-Tableau Public link : https://public.tableau.com/app/profile/eugenia.chien/viz/NewYorkCitiBike2023Dashboard/NewYorkCitiBikeStationAnalysis
+Tableau Public link : https://public.tableau.com/app/profile/eugenia.chien/viz/NewYorkCitiBike2023Dashboard/NewYorkCitiBikeStationAnalysis_1
 
 The overall top station for starting and ending a journey are both 21 St & 6 Ave in zip code 10011.
 Below are the top stations for starting and ending a journey by month
